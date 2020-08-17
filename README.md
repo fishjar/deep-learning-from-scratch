@@ -1,4 +1,4 @@
-__恰饭时刻：最近有在跟学《贪心学院-京东nlp》2020视频，有需要的可以发"京东nlp"至邮箱chengzhou115@163.com__
+__福利推荐：最近有在跟学《贪心学院-京东nlp》2020视频，有需要资源的可以发"京东nlp"至邮箱chengzhou115@163.com__
 
 # deep-learning-from-scratch
 《深度学习入门-基于Python的理论与实现》，包含源代码和高清PDF(带书签)。<br>
